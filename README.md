@@ -1,6 +1,6 @@
 ## Welcome to my website!
 
-Hello! I am Orla amnd I have a seventeen year old student from Belfast, Northern Ireland. I am currently studying in Dominican College.
+Hello! I am Orla and I am a seventeen year old student from Belfast, Northern Ireland. I am currently studying in Dominican College.
 
 You can use the [editor on GitHub](https://github.com/orlabrim/first-website/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
