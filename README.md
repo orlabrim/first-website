@@ -30,17 +30,16 @@ Syntax highlighted code block
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/orlabrim/first-website/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
-
-## English Literature
+### English Literature
 
 Studying English Literature at A-Level is no easy task. The level of work involved is intense, but it is massively rewarding. The course is split in to two sections:
 
 1. AS - Study of Prose (Wuthering Heights), Drama (A Streetcar Named Desire) and Poetry (Seamus Heaney and Robert Frost).
 2. A2 - Study of Prose, Drama and Poetry.
+
+''''markdown
+List of english stuff
+
+1. something here
+2. something there
