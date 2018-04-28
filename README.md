@@ -2,6 +2,9 @@
 
 Hello! I am Orla and I am a seventeen year old student from Belfast, Northern Ireland. I am currently studying in Dominican College. In this website I will explain the basis course content of the subjects I am currently studying at A-Level, including coursework. I hope this information will be useful to anyone wishing to study any of these subjects through further education and gives them an honest insight from a student's point of view.
 
+The board all four of my subjects are with is CCEA.
+<img src="https://www.belfasttelegraph.co.uk/news/northern-ireland/ccea-says-papers-checked-by-experts-trained-in-marking-scheme-36211968.html" alt="CCEA logo" width="56" height="56">
+
 ### English Literature
 
 Studying English Literature at A-Level is no easy task. The level of work involved is intense, but it is massively rewarding. The course is split in to two sections:
