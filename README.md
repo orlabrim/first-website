@@ -5,7 +5,6 @@
     list-style-type: none;
     text-align: center;
 }
-
 .nav li {
     display: inline-block;
     font-size: 20px;
@@ -14,30 +13,23 @@
 }
 </style>
 <body>
-
-<h1>Horizontal Navigation Links</h1>
-
 <ul class="nav">
   <li><a href="#home">Home</a></li>
-  <li><a href="#about">About Us</a></li>
+  <li><a href="#about">About</a></li>
   <li><a href="#english">English</a></li>    
   <li><a href="#mia">Moving Image Arts</a></li>
-  <li><a href="#maths">Mathemtics</a></li>            
+  <li><a href="#maths">Mathematics</a></li>            
 </ul>
-
 </body>
 
 <body>
-
 <button type="button"
 onclick="document.getElementById('demo').innerHTML = Date()">
 Click me to display Date and Time.</button>
-
 <p id="demo"></p>
-
 </body>
 
-## Welcome to my website!
+<h1>"Welcome to my website!">name="#about"</h1> 
 
 Hello! I am Orla and I am a seventeen year old student from Belfast, Northern Ireland. I am currently studying in Dominican College. In this website I will explain the basis course content of the subjects I am currently studying at A-Level, including coursework. I hope this information will be useful to anyone wishing to study any of these subjects through further education and gives them an honest insight from a student's point of view.
 
