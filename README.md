@@ -1,3 +1,27 @@
+<style>
+.nav {
+    background-color: yellow; 
+    padding: 15px;
+    list-style-type: none;
+    text-align: center;
+}
+
+.nav li {
+    display: inline-block;
+    font-size: 20px;
+    padding-left: 20px;
+    padding-right: 20px; 
+}
+</style>
+
+<ul class="nav">
+  <li><a href="#home">Home</a></li>
+  <li><a href="#about">About Us</a></li>
+  <li><a href="#clients">Our Clients</a></li>    
+  <li><a href="#contact">Contact Us</a></li>
+  <li><a href="#map">Map</a></li>            
+</ul>
+
 ## Welcome to my website!
 
 Hello! I am Orla and I am a seventeen year old student from Belfast, Northern Ireland. I am currently studying in Dominican College. In this website I will explain the basis course content of the subjects I am currently studying at A-Level, including coursework. I hope this information will be useful to anyone wishing to study any of these subjects through further education and gives them an honest insight from a student's point of view.
