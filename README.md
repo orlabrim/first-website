@@ -1,3 +1,32 @@
+<style>
+.nav {
+    background-color: turquoise; 
+    padding: 15px;
+    list-style-type: none;
+    text-align: center;
+}
+
+.nav li {
+    display: inline-block;
+    font-size: 20px;
+    padding-left: 20px;
+    padding-right: 20px; 
+}
+</style>
+<body>
+
+<h1>Horizontal Navigation Links</h1>
+
+<ul class="nav">
+  <li><a href="#home">Home</a></li>
+  <li><a href="#about">About Us</a></li>
+  <li><a href="#english">English</a></li>    
+  <li><a href="#mia">Moving Image Arts</a></li>
+  <li><a href="#maths">Mathemtics</a></li>            
+</ul>
+
+</body>
+
 <body>
 
 <button type="button"
