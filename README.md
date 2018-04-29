@@ -14,23 +14,21 @@ AS | A2
 Study of Prose Pre 1900 (Wuthering Heights) | Shakespearean Genres
 Study of Drama 1900–Present (A Streetcar Named Desire) | Internal Assessment
 Study of Poetry 1900–Present (Heaney and Frost) | The Study of Poetry Pre 1900 and Unseen Poetry
+                                          
+### Moving Image Arts
 
+Within studying Moving Image Arts at A-Level, you learn about the background of cinema, the techniques of the five areas of film and how to put these techniques in to practise.
 
-### Wuthering Heights
-  
-<img src="https://static.independent.co.uk/s3fs-public/styles/article_small/public/thumbnails/image/2018/03/29/17/wuth-heights-2.jpg" alt="Photo of the moors" width="80" height="70">
+For our coursework we had to submit
+1. A Statement of Intentions (Including a synopsis and evaluation)
+2. A Director's Notebook
+3. Pre-production materials (including a storyboard, shot list and script)
+4. A 3-4 minute film.
 
-*Wuthering Heights* is a gothic tale about how an orphaned boy named **Heathcliff** is taken in by a man to live with his family in **Wuthering Heights**, on the edge of civilisation. It entails the supernatural, a romantic intesrest and an elaborate revenge plot that ruins the lives of many.
+#### Statement of Intentions
 
-#### Emily Bronte
+Within a statement of intentions, you have to describe 
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Emily_Bront%C3%AB_cropped.jpg/220px-Emily_Bront%C3%AB_cropped.jpg" alt="Painting of Emily Bronte" width="220" height="339">
-
-```markdown
-Life at the time Bronte wrote this novel would have been difficult 
-for a number of reasons:
-* Expectations for women were to simply become the woman of the 
-house and conform to the expected standards of femininity.
-* Diseases were common and fatal, therefore death was not uncommon.
-* Harsh weather conditions.                                                                                                                                                                                       
-
+Synopsis | What is your film going to be about? It should be a short description, summarising the beginning, middle and end of your film.
+Intentions | This includes where your idea came from, (e.g. from music videos, artworks or films you have previously seen). It details how you will implement the five areas of film language (sound, lighting, camera technique, mise-en-scene and editing) in to your film idea.
+Evaluation | This details what you feel went right in the production of the film and where you felt could have gone better. It also includes what did not go to plan, and how, as a director, you overcame this.
