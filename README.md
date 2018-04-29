@@ -11,12 +11,10 @@ Studying English Literature at A-Level is no easy task. The level of work involv
 
 AS | A2
 ------------ | -------------
-Study of Prose (Wuthering Heights) | Study of Prose
-Study of Drama (A Streetcar Named Desire) | Study of Drama
-Study of Poetry (Heaney and Frost) | Study of Poetry
+Study of Prose Pre 1900 (Wuthering Heights) | Shakespearean Genres
+Study of Drama 1900–Present (A Streetcar Named Desire) | Internal Assessment
+Study of Poetry 1900–Present (Heaney and Frost) | The Study of Poetry Pre 1900 and Unseen Poetry
 
-1. **AS** - Study of Prose (Wuthering Heights), Drama (A Streetcar Named Desire) and Poetry (Seamus Heaney and Robert Frost).
-2. **A2** - Study of Prose, Drama and Poetry.
 
 ### Wuthering Heights
   
