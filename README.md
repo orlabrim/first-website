@@ -37,6 +37,10 @@ Evaluation | This details what you feel went right in the production of the film
 
 For my statement of intentions, I took a majority of my influences from Hitchock's collections of movies. His Film Noir classic [Citizen Kane](https://en.wikipedia.org/wiki/Citizen_Kane) included an array of camera and lighting techniques I wished to include in my film.
 
-<img src="http://www.bfi.org.uk/sites/bfi.org.uk/files/styles/full/public/image/citizen-kane-1941-framegrab-16.jpg?itok=fuw_P5L8" alt="Citizen Kane scene" width="304" height="228"> 
+<img src="http://www.bfi.org.uk/sites/bfi.org.uk/files/styles/full/public/image/citizen-kane-1941-framegrab-16.jpg?itok=fuw_P5L8" alt="Citizen Kane scene" width="304" height="228" style="float:right;width:42px;height:42px;">For my statement of intentions, I took a majority of my influences from Hitchock's collections of movies. His Film Noir classic [Citizen Kane](https://en.wikipedia.org/wiki/Citizen_Kane) included an array of camera and lighting techniques I wished to include in my film.>
 <img src="https://i.pinimg.com/originals/f6/ee/3b/f6ee3b397031b34855a0a826a81a8713.jpg" alt="CK Lighting" width="304" height "228"> 
 <img src="http://4.bp.blogspot.com/-8ZVH3WNDfoM/TevT9MKQbwI/AAAAAAAAAUc/by5fUlRF0-o/s1600/citizen_kane_2.jpg" alt="Citizen Kane deep focus" width="304" height "228">
+
+<p><img src="smiley.gif" alt="Smiley face" style="float:right;width:42px;height:42px;">
+The image will float to the right of the text.</p>
+
