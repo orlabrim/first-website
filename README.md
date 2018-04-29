@@ -37,7 +37,6 @@ Evaluation | This details what you feel went right in the production of the film
 
 For my statement of intentions, I took a majority of my influences from Hitchock's collections of movies. His Film Noir classic [Citizen Kane](https://en.wikipedia.org/wiki/Citizen_Kane) included an array of camera and lighting techniques I wished to include in my film.
 
-<head>
 <style>
 * {
     box-sizing: border-box;
@@ -55,7 +54,6 @@ For my statement of intentions, I took a majority of my influences from Hitchock
     display: table;
 }
 </style>
-</head>
 
 <div class="clearfix">
   <div class="img-container">
