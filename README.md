@@ -3,7 +3,7 @@
 Hello! I am Orla and I am a seventeen year old student from Belfast, Northern Ireland. I am currently studying in Dominican College. In this website I will explain the basis course content of the subjects I am currently studying at A-Level, including coursework. I hope this information will be useful to anyone wishing to study any of these subjects through further education and gives them an honest insight from a student's point of view.
 
 The board all four of my subjects are with is [CCEA](http://ccea.org.uk).
-<img src="http://ccea.org.uk/sites/all/themes/ccea_subtheme/logo.png" alt="CCEA logo" width="400" height="100">
+<img src="http://ccea.org.uk/sites/all/themes/ccea_subtheme/logo.png" alt="CCEA logo" width="300" height="100">
 
 ### English Literature
 
@@ -34,3 +34,7 @@ Part | Content
 Synopsis | What is your film going to be about? It should be a short description, summarising the beginning, middle and end of your film.
 Intentions | This includes where your idea came from, (e.g. from music videos, artworks or films you have previously seen). It details how you will implement the five areas of film language (sound, lighting, camera technique, mise-en-scene and editing) in to your film idea.
 Evaluation | This details what you feel went right in the production of the film and where you felt could have gone better. It also includes what did not go to plan, and how, as a director, you overcame this.
+
+For my statement of intentions, I took a majority of my influences from Hitchock's collections of movies. His Film Noir classic [Citizen Kane](https://en.wikipedia.org/wiki/Citizen_Kane) included an array of camera and lighting techniques I wished to include in my film.
+
+<img src="http://www.bfi.org.uk/sites/bfi.org.uk/files/styles/full/public/image/citizen-kane-1941-framegrab-16.jpg?itok=fuw_P5L8" alt="Citizen Kane scene" width="304" height="228"> <img src="https://i.pinimg.com/originals/f6/ee/3b/f6ee3b397031b34855a0a826a81a8713.jpg" alt="CK Lighting" width="304" height "228"> <img src="http://4.bp.blogspot.com/-8ZVH3WNDfoM/TevT9MKQbwI/AAAAAAAAAUc/by5fUlRF0-o/s1600/citizen_kane_2.jpg" alt="Citizen Kane deep focus" width="304" height "228">
