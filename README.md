@@ -12,12 +12,12 @@ Studying English Literature at A-Level is no easy task. The level of work involv
 1. AS - Study of Prose (Wuthering Heights), Drama (A Streetcar Named Desire) and Poetry (Seamus Heaney and Robert Frost).
 2. A2 - Study of Prose, Drama and Poetry.
 
-<style>
   <h1>### Wuthering Heights
+  <style>
     text-align:centre;
-  </h1>
 </style>
-
+  </h1>
+  
 <img src="https://static.independent.co.uk/s3fs-public/styles/article_small/public/thumbnails/image/2018/03/29/17/wuth-heights-2.jpg" alt="Photo of the moors" width="80" height="70">
 
 ```markdown
