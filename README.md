@@ -29,7 +29,7 @@ Click me to display Date and Time.</button>
 <p id="demo"></p>
 </body>
 
-<h1>"Welcome to my website!">name="#about"</h1> 
+### Welcome to my website!
 
 Hello! I am Orla and I am a seventeen year old student from Belfast, Northern Ireland. I am currently studying in Dominican College. In this website I will explain the basis course content of the subjects I am currently studying at A-Level, including coursework. I hope this information will be useful to anyone wishing to study any of these subjects through further education and gives them an honest insight from a student's point of view.
 
