@@ -29,6 +29,7 @@ For our coursework we had to submit
 
 Within a statement of intentions, you have to describe 
 
+Part | Content
 ------------ | -------------
 Synopsis | What is your film going to be about? It should be a short description, summarising the beginning, middle and end of your film.
 Intentions | This includes where your idea came from, (e.g. from music videos, artworks or films you have previously seen). It details how you will implement the five areas of film language (sound, lighting, camera technique, mise-en-scene and editing) in to your film idea.
