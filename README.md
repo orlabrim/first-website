@@ -5,23 +5,15 @@ Hello! I am Orla and I am a seventeen year old student from Belfast, Northern Ir
 The board all four of my subjects are with is [CCEA](http://ccea.org.uk).
 <img src="http://ccea.org.uk/sites/all/themes/ccea_subtheme/logo.png" alt="CCEA logo" width="100" height="80">
 
-> We're living the future so
-> the present is our past.
-
-I think you should use an
-`<addr>` element here instead.
-
-```javascript
-function fancyAlert(arg) {
-  if(arg) {
-    $.facebox({div:'#foo'})
-  }
-}
-```
-
 ### English Literature
 
 Studying English Literature at A-Level is no easy task. The level of work involved is intense, but it is massively rewarding. The course is split in to two sections:
+
+AS | A2
+------------ | -------------
+Study of Prose (Wuthering Heights) | Study of Prose
+Study of Drama (A Streetcar Named Desire) | Study of Drama
+Study of Poetry (Heaney and Frost) | Study of Poetry
 
 1. **AS** - Study of Prose (Wuthering Heights), Drama (A Streetcar Named Desire) and Poetry (Seamus Heaney and Robert Frost).
 2. **A2** - Study of Prose, Drama and Poetry.
