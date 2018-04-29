@@ -1,26 +1,12 @@
-<style>
-.nav {
-    background-color: yellow; 
-    padding: 15px;
-    list-style-type: none;
-    text-align: center;
-}
+<body>
 
-.nav li {
-    display: inline-block;
-    font-size: 20px;
-    padding-left: 20px;
-    padding-right: 20px; 
-}
-</style>
+<button type="button"
+onclick="document.getElementById('demo').innerHTML = Date()">
+Click me to display Date and Time.</button>
 
-<ul class="nav">
-  <li><a href="#home">Home</a></li>
-  <li><a href="#about">About Us</a></li>
-  <li><a href="#clients">Our Clients</a></li>    
-  <li><a href="#contact">Contact Us</a></li>
-  <li><a href="#map">Map</a></li>            
-</ul>
+<p id="demo"></p>
+
+</body>
 
 ## Welcome to my website!
 
